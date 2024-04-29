@@ -1,4 +1,4 @@
-# MoreAboutMor - My Final Project in my colleage 
+# MoreAboutMor - Final Project in my college 
 The app aimed to help students make informed decisions about course registration. User can create a post to suggest or asking idea about the course that them interesting before registered to educated. This project developed with many tech-stack here is a list of the stack :
 - Java for develop android application
 - Android Studio
