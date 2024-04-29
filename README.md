@@ -10,7 +10,7 @@ The app aimed to help students make informed decisions about course registration
 
 ![image](/images/Overview.png)
 
-# What is I'm done with this project?
+# What did I do on this project?
 Here is a list of some features that I have added.
 - Implemented manage post feature 
 - Implemented search feature
