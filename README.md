@@ -1,6 +1,8 @@
 # MoreAboutMor - My Final Project in my colleage 
 The app aimed to help students make informed decisions about course registration. User can create a post to suggest or asking idea about the course that them interesting before registered to educated. 
 
+<br>
+
 ![image](/images/Overview.png)
 
 # Here is my work in this project
