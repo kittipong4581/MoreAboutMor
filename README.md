@@ -3,7 +3,7 @@ The app aimed to help students make informed decisions about course registration
 - Java for develop android application
 - Android Studio
 - Figma for design UI
-- Firebase
+- Firebase (Authentication, Real-time database, Firestorage)
 - Google app script
 
 <br>
